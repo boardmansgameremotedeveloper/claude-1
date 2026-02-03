@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   server: {
-    allowedHosts: ['.boardmansgame.com'],
+    allowedHosts: ['.boardmansgame.com','.midnighttree.com'],
     port: 3000,
     open: true
   }
