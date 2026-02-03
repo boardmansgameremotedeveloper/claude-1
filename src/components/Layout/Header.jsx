@@ -18,7 +18,7 @@ function Header() {
 
         <div className="header-ad">
           <AdBox
-            scriptContent='<ins data-revive-zoneid="8" data-revive-id="dd1b8f3615a0b13e4a9251d246a75a9f"></ins>'
+            scriptContent='<ins data-revive-zoneid="6" data-revive-id="dd1b8f3615a0b13e4a9251d246a75a9f"></ins>'
             placeholder="320x50"
           />
         </div>
